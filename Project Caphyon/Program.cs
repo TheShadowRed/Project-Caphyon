@@ -13,7 +13,8 @@ namespace Project_Caphyon
             TaskOne Task = new TaskOne();
             // taskul 1
             Task.TaskOneMain();
-            //select tasks
+            // taskul 2
+            Task.TaskTwo();
         }
 
         
