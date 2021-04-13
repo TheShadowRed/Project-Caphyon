@@ -15,6 +15,8 @@ namespace Project_Caphyon
             Task.TaskOneMain();
             // taskul 2
             Task.TaskTwo();
+            // taskul 3
+            Task.TaskThird();
         }
 
         
